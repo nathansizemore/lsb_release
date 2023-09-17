@@ -1,0 +1,12 @@
+[package]
+name = "lsb_release"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nathan Sizemore <nathanrsizemore@gmail.com>"]
+description = "Linux lsb_release wrapper"
+readme = "README.md"
+keywords = ["lsb_release", "lsb", "linux", "info", "os"]
+license = "MIT"
+repository = "https://github.com/nathansizemore/lsb_release"
+documentation = "https://docs.rs/lsb_release"
+
